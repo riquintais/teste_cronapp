@@ -1,0 +1,12 @@
+{
+    "name": "crn-componentespinner",
+    "text": "ComponenteSpinner",
+    "class": "adjust-icon mdi mdi-checkerboard",
+    "templateURL": "${webcontent}/components/templates/componentespinner.template.html",
+    "properties": {
+        "onchange": {
+            "removable": true,
+            "type": "event"
+        }
+    }
+}
